@@ -1,0 +1,45 @@
+.darklist{
+    position: fixed;
+    background-color: rgba(0,0,0,0.7);
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    align-items: center;
+    justify-content: center;
+    display: none;
+    overflow-y:scroll;
+}
+.back{
+    position: fixed;
+    top: 50%;
+    left:20%;
+    font-size: 2rem;
+}
+.darksong{
+    position: fixed;
+    background-color: rgba(0,0,0,0.7);
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+.songbox{
+    position: relative;
+    max-width: 600px;
+    height: 50%;
+    background-color: rgb(224, 224, 224);
+    min-height: 200px;
+    border:rgb(0, 43, 59) 2px solid;
+}
+.exit{
+    width: 30px;
+    position: absolute;
+    border-radius: 50%;
+    top:-20px;
+    right:-20px;
+}
+.h5{
+    max-width: 400px;
+}

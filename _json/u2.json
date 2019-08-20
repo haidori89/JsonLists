@@ -1,0 +1,412 @@
+[
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/UcYfDGrSNOAMDY_mq82Mjx9S6bA\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS5BQUYwRjQ2NTY1RjBDMEY3",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U218 Singles Album is In Stores Now! (\"With or Without You\")",
+"description": "\"With or Without You\" from Vertigo '05 Live from Milan DVD.  Part of CD/DVD In Stores now.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/h7p4BjD7wb8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/h7p4BjD7wb8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/h7p4BjD7wb8/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "h7p4BjD7wb8"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/2fukGwhXmjr1BfsN8E0eLa9LCIA\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS41REU1REQ1MDZBRkU0MDMy",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "Mary J. Blige, U2 - One (Official Music Video)",
+"description": "Music video by U2 performing One (C) 2006 Universal-Island Records Limited\n\n#MaryJBlige #One #Vevo #RandB #OfficialMusicVideo",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ZpDQJnI4OhU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ZpDQJnI4OhU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ZpDQJnI4OhU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ZpDQJnI4OhU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/ZpDQJnI4OhU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ZpDQJnI4OhU"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/M9U8muM3E37MK75qLdOtdR86H60\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS44OUE3RDJCMzYwRkZGQTcz",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U2 - I Still Haven't Found What I'm Looking For (Official Video)",
+"description": "Listen to U2 on Apple Music:  http://po.st/U2AppleMusic\n \nListen to U2 Complete on Spotify: http://po.st/U2Complete\n\nU2’s new album, “Songs of Experience” out now. Listen to the album: https://lnk.to/ZaQRe \n\nExplore more music from U2: https://lnk.to/oVysR \n\nFollow U2: http://www.u2.com/ \nFacebook: https://U2.lnk.to/FBID \nTwitter: https://U2.lnk.to/TWID \nInstagram: https://U2.lnk.to/ISID \n  \n(C) 1987 Universal-Island Records Ltd.\n\nhttp://vevo.ly/glsRz5\n\n#U2 #IStillHaventFoundWhatImLookingFor #Vevo #Rock #OfficialMusicVideo",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/e3-5YC_oHjE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/e3-5YC_oHjE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/e3-5YC_oHjE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/e3-5YC_oHjE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/e3-5YC_oHjE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 2,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "e3-5YC_oHjE"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/xmFtZ9Y_20yyFxmvWU0wf42TpmQ\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS43MDdCQjczMTcwQTBEMTMz",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U2 - Beautiful Day",
+"description": "U2’s new album, “Songs of Experience” out now. Listen to the album: https://lnk.to/ZaQRe \n\nExplore more music from U2: https://lnk.to/oVysR \n\nFollow U2: http://www.u2.com/ \nFacebook: https://U2.lnk.to/FBID \nTwitter: https://U2.lnk.to/TWID \nInstagram: https://U2.lnk.to/ISID \n\nMusic video by U2 performing Beautiful Day (C) 2000 Universal-Island Records Limited \nYouTube view counts pre-VEVO: 5,262,327.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/co6WMzDOh1o/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/co6WMzDOh1o/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/co6WMzDOh1o/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/co6WMzDOh1o/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 3,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "co6WMzDOh1o"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/iAuI-nX9Bqx4kuFe7YpK5rzbLAw\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS5BNDA1MTcxMTg3NURFODlG",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U2 The Best of 1980-1990: Bad",
+"description": "The Best of U2 1980-1990: Bad: \r\nBono- Lead singer/vocals \r\nThe Edge- Lead guitar and backup vocals Adam Clayton- Bass Guitar \r\nLarry Mullen Jr- Drums",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/RV0O9OdqGE0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/RV0O9OdqGE0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/RV0O9OdqGE0/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 4,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "RV0O9OdqGE0"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/RhdezeVC2PvC4FryoOcvJGmDWVY\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS4yNDlEMEI0NjZCMEQ4M0I3",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U2 - Where The Streets Have No Name (Official Video)",
+"description": "For more information check out www.u2.com  \n \nListen to U2 on Apple Music:  http://po.st/U2AppleMusic\n \nListen to U2 Complete on Spotify: http://po.st/U2Complete\n\nU2’s new album, “Songs of Experience” out now. Listen to the album: https://lnk.to/ZaQRe \n\nExplore more music from U2: https://lnk.to/oVysR \n\nFollow U2: http://www.u2.com/ \nFacebook: https://U2.lnk.to/FBID \nTwitter: https://U2.lnk.to/TWID \nInstagram: https://U2.lnk.to/ISID \n  \n(C) 1987 Universal-Island Records Ltd.\n\n #U2 #WhereTheStreetsHaveNoName #Vevo",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/GzZWSrr5wFI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/GzZWSrr5wFI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/GzZWSrr5wFI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/GzZWSrr5wFI/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/GzZWSrr5wFI/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 5,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "GzZWSrr5wFI"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/gSgGz6_T6mceeWrqwUM045aDSRg\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS5GNTA1MjdDNzExNTE5NjQ2",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U2 New Year's Day (Full Version)",
+"description": "The full version of U2's New Year's Day on the album \"War\"\nI don't own any of this material.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/vdLuk2Agamk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/vdLuk2Agamk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/vdLuk2Agamk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/vdLuk2Agamk/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 6,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "vdLuk2Agamk"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/ksRcSJXWyb-8MNxuQSnmAR_y5bk\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS4xRkI1MjM1NzdCQzE0MkUw",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U2 - Ordinary Love (From Mandela OST) Lyric Video",
+"description": "Download U2's new song Ordinary Love (from the \"Mandela: Long Walk To Freedom\" Soundtrack) here:\nhttp://smarturl.it/MandelaOSTu2iT\n\nU2 premieres their new song Ordinary Love (from Mandela: Long Walk To Freedom).\n\nU2’s new album, “Songs of Experience” out now. Listen to the album: https://lnk.to/ZaQRe \n\nExplore more music from U2: https://lnk.to/oVysR \n\nFollow U2: http://www.u2.com/ \nFacebook: https://U2.lnk.to/FBID \nTwitter: https://U2.lnk.to/TWID \nInstagram: https://U2.lnk.to/ISID \n\nLyric video by U2 performing Ordinary Love (From Mandela OST)  (C) 2013 Universal-Island Records Limited\n\n#U2 #OrdinaryLove #Vevo #Rock",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/XC3ahd6Di3M/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/XC3ahd6Di3M/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/XC3ahd6Di3M/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/XC3ahd6Di3M/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/XC3ahd6Di3M/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 7,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "XC3ahd6Di3M"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/eC4MbN3L1NX_L15aJkltu3RbkAI\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS4yNEVCOEQ1MTU5RDkwQ0Y2",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U2 - Sunday Bloody Sunday (Official Video)",
+"description": "U2’s new album, “Songs of Experience” out now. Listen to the album: https://lnk.to/ZaQRe \n\nExplore more music from U2: https://lnk.to/oVysR \n\nFollow U2: http://www.u2.com/ \nFacebook: https://U2.lnk.to/FBID \nTwitter: https://U2.lnk.to/TWID \nInstagram: https://U2.lnk.to/ISID \n\nMusic video by U2 performing Sunday Bloody Sunday. (C) 2006 Universal-Island Records Ltd.\n\n#U2 #SundayBloodySunday #Vevo",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/EM4vblG6BVQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/EM4vblG6BVQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/EM4vblG6BVQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/EM4vblG6BVQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/EM4vblG6BVQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 8,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "EM4vblG6BVQ"
+}
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/aTYVQDugGhuc3fRqvVMfZiPnFGk\"",
+"id": "UExFc1cwSTRENExRWkJ2OXNENmVoSGN5eTZMUWlKcUliLS43QkQyNzE0NUQxODEyMzhC",
+"snippet": {
+"publishedAt": "2019-06-26T17:12:52.000Z",
+"channelId": "UCqIQRxCUGi7hyJisyzv9zYQ",
+"title": "U2 Dancing Barefoot , ¨ Threesome ¨ Movie Soundtrack Trailer (Subtitulado)",
+"description": "Lara Flynn Boyle , Josh Charles and Stephen Baldwin\n\nMusica por:  U2 \nCancion: Dancing Barefoot\n\nhttp://www.flickr.com/photos/kill-the-hippies\nhttp://www.facebook.com/people/Jonathan-Mittag-Bruno/1529027358",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/4klWQ6Iud_o/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/4klWQ6Iud_o/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/4klWQ6Iud_o/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "U2 - Topic",
+"playlistId": "PLEsW0I4D4LQZBv9sD6ehHcyy6LQiJqIb-",
+"position": 9,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "4klWQ6Iud_o"
+}
+}
+}
+]
